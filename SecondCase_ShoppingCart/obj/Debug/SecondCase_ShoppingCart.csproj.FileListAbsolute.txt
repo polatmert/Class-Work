@@ -1,0 +1,19 @@
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.exe.config
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.exe
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.pdb
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.Form1.resources
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.Properties.Resources.resources
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.csproj.GenerateResource.Cache
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.exe
+C:\Users\POLAT\Desktop\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.pdb
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.exe.config
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.exe
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.pdb
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.exe
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.pdb
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.Form1.resources
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.Properties.Resources.resources
+D:\POLAT\Trendyol\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.csproj.GenerateResource.Cache
+D:\DERSLER\Github'a eklenenler\SecondCase_ShoppingCart\SecondCase_ShoppingCart\bin\Debug\SecondCase_ShoppingCart.exe.config
+D:\DERSLER\Github'a eklenenler\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.exe
+D:\DERSLER\Github'a eklenenler\SecondCase_ShoppingCart\SecondCase_ShoppingCart\obj\Debug\SecondCase_ShoppingCart.pdb
